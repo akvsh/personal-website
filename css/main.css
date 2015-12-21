@@ -8,13 +8,16 @@ body {
 
 #name {
     font-size: 120px;
-}
-
-h1 {
+    text-decoration: none;
     font-weight: 400;
     color: #98dafc;
     text-align: center;
     width: 100%;
+}
+
+
+#name:hover {
+    text-decoration-color: #feffff;
 }
 
 .site-content {
@@ -31,8 +34,11 @@ h1 {
 
 #link {
     text-decoration: none;
+    background-color: inherit;
     position: relative;
-     color: #daad86;
+    color: #daad86;
+    border: none;
+    
 }
 
 #link:hover {
