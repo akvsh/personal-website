@@ -23,6 +23,10 @@ h1 {
     background-color: aliceblue;
 }
 
+#my-twitter {
+    color: #55acee;
+}
+
 #my-linkedin {
     color: #0077b5;
 }
@@ -32,6 +36,7 @@ h1 {
 }
 
 .contact-section {
+    text-align: center;
     position: absolute;
     bottom: 0;
     width: 100%;
