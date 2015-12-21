@@ -6,12 +6,34 @@ body {
 }
 
 h1 {
-    font-size: 85px;
+    font-size: 95px;
     font-weight: 400;
     text-align: center;
     width: 100%;
 }
 
-#name {
-    padding: 2%;
+.btn{
+    -webkit-appearance: none;
+    border: 0;
+    background: transparent;
+    outline: none;
 }
+
+.btn:hover {
+    background-color: aliceblue;
+}
+
+#my-linkedin {
+    color: #0077b5;
+}
+
+#my-github {
+    color: #333333;
+}
+
+.contact-section {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
