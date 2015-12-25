@@ -78,16 +78,36 @@ body {
     background-color: inherit;
 }
 
+#my-email:hover {
+        color: #daad86;
+}
+
 #my-twitter {
     color: #55acee;
+}
+
+#my-twitter:hover {
+        color: #daad86;
 }
 
 #my-linkedin {
     color: #0077b5;
 }
 
+#my-linkedin:hover {
+        color: #daad86;
+}
+
 #my-github {
     color: #333333;
+}
+
+#my-github:hover {
+        color: #daad86;
+}
+
+#my-angellist:hover {
+        color: #daad86;
 }
 
 #about {
