@@ -42,7 +42,7 @@ body {
 }
 
 #link:hover {
-    color:#312c32;
+    color: #98dafc;
 }
 
 #link:before {
@@ -53,7 +53,7 @@ body {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: #daad86;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
