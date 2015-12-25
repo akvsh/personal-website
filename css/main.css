@@ -100,7 +100,7 @@ body {
 .project-title {
     padding-left: 1%;
     border-left: 6px solid #98dafc;
-    font-size: 40px;
+    font-size: 44px;
     font-weight: 400;
 }
 
@@ -108,13 +108,13 @@ body {
     font-weight: 100;
     padding-left: 2%;
     padding-right: 2%;
-    font-size: 25px;
+    font-size: 26px;
 }
 
 .footer {
-    text-align: center !important;
-    position: absolute;
-    bottom: 0 !important;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
     width: 100%;
     border-bottom: 10px solid #98dafc;
     font-size: 50px;
