@@ -118,6 +118,7 @@ body {
 }
 
 .project-title {
+    padding-top: 5px;
     padding-left: 1%;
     border-left: 6px solid #98dafc;
     font-size: 44px;
