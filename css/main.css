@@ -2,7 +2,8 @@ body {
     font-family: 'Raleway', sans-serif;
     width: 100%;
     height: 100%;
-    background-color: #feffff;
+   /* background-color: #feffff; */
+    background-color: #e8edf3;
  
 }
 
@@ -10,7 +11,8 @@ body {
     font-size: 100px;
     text-decoration: none;
     font-weight: 400;
-    color: #98dafc;
+    /*color: #98dafc;*/
+    color: #62bcfa;
     text-align: center;
     width: 100%;
 }
@@ -24,20 +26,22 @@ body {
     font-size: 65px;
     width: 100%;
     padding: 1.3%;
-    color: #daad86;
+    /*color: #daad86;*/
+    color: #b56969;
 }
 
 #link {
     text-decoration: none;
     background-color: inherit;
     position: relative;
-    color: #daad86;
-    border: none;
-    
+    /*color: #daad86;*/
+    color: #729f98;
+    border: none; 
 }
 
 #link:hover {
-    color: #98dafc;
+   /* color: #98dafc; */
+     color: #22264b;
 }
 
 #link:before {
@@ -48,7 +52,8 @@ body {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #daad86;
+     /* background-color: #daad86; */
+  background-color: #729f98;
   visibility: hidden;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
@@ -74,7 +79,8 @@ body {
 }
 
 #my-email:hover {
-        color: #daad86;
+     /* color: #daad86; */
+        color: #729f98;
 }
 
 #my-twitter {
@@ -82,7 +88,8 @@ body {
 }
 
 #my-twitter:hover {
-        color: #daad86;
+     /* color: #daad86; */
+        color: #729f98;
 }
 
 #my-linkedin {
@@ -90,7 +97,8 @@ body {
 }
 
 #my-linkedin:hover {
-        color: #daad86;
+     /* color: #daad86; */
+        color: #729f98;
 }
 
 #my-github {
@@ -98,11 +106,13 @@ body {
 }
 
 #my-github:hover {
-        color: #daad86;
+     /* color: #daad86; */
+        color: #729f98;
 }
 
 #my-angellist:hover {
-        color: #daad86;
+        /* color: #daad86; */
+    color: #729f98;
 }
 
 #about {
@@ -115,7 +125,8 @@ body {
 .project-title {
     padding-top: 5px;
     padding-left: 1%;
-    border-left: 6px solid #98dafc;
+    /* border-left: 6px solid #98dafc; */
+    border-left: 6px solid #62bcfa;
     font-size: 44px;
     font-weight: 400;
 }
@@ -132,7 +143,8 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
-    border-bottom: 10px solid #98dafc;
+    /* border-bottom: 10px solid #98dafc; */
+    border-bottom: 10px solid #62bcfa;
     font-size: 50px;
 }
 
