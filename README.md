@@ -1,3 +1,2 @@
 # personal-website
-trying out a new site design
-(minimal)
+Redid my personal site, made it more minimal
